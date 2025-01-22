@@ -29,10 +29,10 @@ where you can text people online and engage in conversation whilst listening to 
 ### Backend:
 
 - **Express**: For building the server and handling API requests.
-- **MongoDB**: As the database to store posts.
+- **MongoDB**: As the database to store music and messages.
 - **Mongoose**: To interact with MongoDB.
-- **Socket.io**: For real-time communication between client and server.
-- **Cloudinary**: For storage of profile photo that can potentially become large.
+- **Socket.io**: For real-time communication for the messaging feature.
+- **Cloudinary**: For storage of music, music image and album image that can potentially become large.
 - **Clerk**: For Authentication and admin access.
 
 ---
