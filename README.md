@@ -136,5 +136,34 @@ This project does not currently have a license.
 
 ---
 
-## Visit the website
+## Visit the Render
 https://spotify-chat-app-sto9.onrender.com/
+
+---
+
+## Screenshots
+
+Some screenshots to showcase the app:
+
+### Main UI:
+![Main UI](https://github.com/user-attachments/assets/4d987829-9892-4ec9-bf02-9bdcc7b5dd84)
+
+### Messaging Feature:
+![messageFeature1](https://github.com/user-attachments/assets/230e8c11-384b-451d-8c98-eecebb28e8c6)
+![messageFeature2](https://github.com/user-attachments/assets/b394f211-fbc8-4d8f-89d5-54490f4237a3)
+
+### Admin Dashboard:
+
+![adminDashboard](https://github.com/user-attachments/assets/d593813b-9064-4284-8b97-4f2010d24a4c)
+
+### Add Songs:
+
+![addSongs](https://github.com/user-attachments/assets/f8931970-c9a4-43cc-aaa6-82305d302353)
+
+### Add Albums:
+
+![addAlbums](https://github.com/user-attachments/assets/72081ad7-7803-48a9-81ec-6436184c4a11)
+
+### Music Playing:
+
+![musicPlaying](https://github.com/user-attachments/assets/cffbf32e-a858-49a5-a2c2-d58dd8b0e912)
